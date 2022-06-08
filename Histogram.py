@@ -1,5 +1,5 @@
 # Matplotlib Basics - written by V I E R U S
-# June --, 2022
+# June 8, 2022
 # If not already install matplotlib with 'pip install matplotlib' and 'pip install numpy' with cmd
 # This program goes into the basics of matplotlib Histogram
 

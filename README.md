@@ -1,5 +1,5 @@
 # Matplotlib Basics
-A few basic graphs from matplotlib: Bar Graph, Histogram, Line Graph, Pie Chart, Scatter Plot Graph
+A few basic graphs from matplotlib: Bar Graph, Histogram, Line Graph, Pie Chart, Scatter Plot Graph, and Box/Whisker Plot
 
 *If not already install matplotlib with 'pip install matplotlib' and 'pip install numpy' with cmd*
 
@@ -20,7 +20,8 @@ A few basic graphs from matplotlib: Bar Graph, Histogram, Line Graph, Pie Chart,
     - Scatter Plot Graph
         Create scatter plot, marker size, transparent size, random colors/sizes markers
 
-
+    - Boxplot / Whisker Plot
+        Create a BP, Horizontal, Width, label, color box/outline/lines/cap/outliner, outliner, connect outliner, Multiple values
 
 
 
